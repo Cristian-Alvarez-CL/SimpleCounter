@@ -1,0 +1,13 @@
+.counter{
+  text-align: center;
+  background: black;
+}
+
+.counter div{
+  display: inline-block;
+  font-size: 60px;
+  line-height: 60px;
+  background: black;
+  color: white;
+  padding: 5%;
+}
